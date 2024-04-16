@@ -10,7 +10,7 @@
 
 [官方doc主页](https://docs.oracle.com/en/java/javase/18/)
 
-删除了原作者的书中源代码，换行符改为了LF。notes以为是我当时添加了
+删除了原作者的书中源代码，换行符改为了LF。notes以外是我当时添加了的
 
 # 《Java核心编程：卷一》笔记
 ## 按章节笔记目录
