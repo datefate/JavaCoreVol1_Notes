@@ -275,7 +275,7 @@ final 指示的变量只能被赋值一次
 
 如果希望某个常量可以在一个类中多个方法使用（类常量），
 
-可以使用关键字 static final
+可以使用 l;''字 static final
 
 ```java
 public class Constants2 {

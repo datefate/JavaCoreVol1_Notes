@@ -151,7 +151,7 @@ sgn 是符号函数
 
 接口不是类，不能实例化对象
 
-但是能定义接口类型的变量
+<font color = red>但是能定义接口类型的变量</font>
 
 接口变量必须引用实现了接口的类对象
 
@@ -172,7 +172,7 @@ public interface Powered extends Moveable {
 
 
 
-不能包含实例域或静态方法，但可以包含常量
+**<font color =red>不能包含实例域或静态方法，但可以包含常量</font>**
 
 ```java
 public interface Powered extends Moveable {
@@ -211,7 +211,7 @@ C++ 支持多重继承（multiple inheritance），Java 则不支持多重继承
 
 Java SE 8 允许在接口中增加静态方法，虽然这有违接口作为抽象规范的初衷
 
-很多时候使用一个接口和一个伴随类的方法解决这个问题，将静态方法放于伴随类中
+很多时候使用一个接口和一个`伴随类`的方法解决这个问题，将静态方法放于伴随类中
 
 如标准库中的 Collection/Collections，Path/Paths 
 

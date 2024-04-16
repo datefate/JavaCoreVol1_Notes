@@ -207,7 +207,7 @@ name = Harry Hacker, salary = 52500.0, hireDay = 1989-10-01
 ```java
 public EmployeeDB {
     public void update(ArrayList list) {...}
-    public ArrayList find(String query) {...}
+    public78 ArrayList find(String query) {...}
 }
 ```
 

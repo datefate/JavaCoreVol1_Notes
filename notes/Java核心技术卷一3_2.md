@@ -356,7 +356,7 @@ smallPrimes = new int[] {17,19,23,29,31,37}; // 可以赋值
 ArrayCopyTest.java
 
 ```java
-import java.util.*;
+	import java.util.*;
 public class ArrayCopyTest {
 	public static void main(String[] args) {
 		int[] smallPrimes = {2,3,5,7,11,13};
